@@ -5,6 +5,6 @@ int main()
 {
     setlocale(0, ".1251");
     double a, b;
-      cout << "Введіть два числа: ";
+      cin << "Введіть два числа: ";
     cin >> a >> b;
 }
